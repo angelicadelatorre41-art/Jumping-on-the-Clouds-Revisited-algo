@@ -1,1 +1,1 @@
-# Jumping-on-the-Clouds-Revisited-algo
+# Jumping-on-the-Clouds-Revisited-algo This program simulates the Jumping on the Clouds: Revisited game. Starting with 100 energy, the player jumps through the cloud array in steps of size k, losing 1 energy for a normal cloud and 3 energy for a thundercloud, until returning to the starting position, then outputs the remaining energy.
